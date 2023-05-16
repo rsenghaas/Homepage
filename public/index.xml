@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Senghaas</title>
+    <link>https://www.thphys.uni-heidelberg.de/~senghaas/</link>
+    <description>Recent content on Raphael Senghaas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022. All rights reserved.</copyright><atom:link href="https://www.thphys.uni-heidelberg.de/~senghaas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.thphys.uni-heidelberg.de/~senghaas/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thphys.uni-heidelberg.de/~senghaas/about/</guid>
+      <description>About me. </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.thphys.uni-heidelberg.de/~senghaas/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thphys.uni-heidelberg.de/~senghaas/contact/</guid>
+      <description>Office:
+Institut für theoretische Physik
+Philosophenweg 19
+Email: senghaas[at]stud[dot]uni-heidelberg[dot]de
+LinkedIn</description>
+    </item>
+    
+    <item>
+      <title>Raphael Senghaas</title>
+      <link>https://www.thphys.uni-heidelberg.de/~senghaas/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thphys.uni-heidelberg.de/~senghaas/home/</guid>
+      <description>I am currently a master student in physics of Prof. Dr. Johannes Walcher at Universität Heidelberg. I&amp;rsquo;m part of the STRUCTURES YRC.
+My research interests include Mathematical Physics and Algebraic Geometry (see Research).
+From August 2019 until June 2020, I studied at the Tsinghua University in Beijing.
+I&amp;rsquo;m a member of the Eomii team since April 2022.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://www.thphys.uni-heidelberg.de/~senghaas/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thphys.uni-heidelberg.de/~senghaas/teaching/</guid>
+      <description>Help-Desk Tutor (Analysis 2 &amp;amp; Linear Algebra 2) SS22
+Teaching Assistant String Theory WS21/22
+Tutor Algebra II SS21
+Tutor Linear Algebra I WS20/21</description>
+    </item>
+    
+  </channel>
+</rss>

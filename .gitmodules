@@ -1,0 +1,15 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/themes/solar"]
+	path = themes/themes/solar
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "themes/solar"]
+	path = themes/solar
+	url = https://github.com/bake/solar-theme-hugo.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+  url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+  url = https://github.com/yoshiharuyamashita/blackburn.git

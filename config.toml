@@ -1,3 +1,62 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.thphys.uni-heidelberg.de/~senghaas/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+defaultContentLanguage = 'en-us'
+author = "Raphael Senghaas"
+title = 'Raphael Senghaas'
+theme = 'blackburn'
+copyright = "&copy; 2022. All rights reserved."
+paginate = 10
+canonifyurls = true
+
+[menu] 
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    pre = "<i class=\"sidebar-button-icon fas fa-lg fa-home\" aria-hidden=\"true\"></i>"
+    weight = 1
+
+  [[menu.main]]
+    identifier = 'notes'
+    name = 'Notes'
+    url = "/notes/"
+    pre = "<i class='sidebar-button-icon fas fa-lg fa-sticky-note' aria-hidden='true'></i>"
+    weight = 2
+
+  [[menu.main]]
+    identifier = 'research'
+    name = 'Research'
+    url = "/research/"
+    pre = "<i class='sidebar-button-icon fas fa-lg fa-flask' aria-hidden='true'></i>"
+    weight = 3    
+  
+  [[menu.main]]
+    identifier = 'teaching'
+    name = 'Teaching'
+    url = "/teaching/"
+    pre = "<i class='sidebar-button-icon fas fa-lg fa-columns' aria-hidden='true'></i>"
+    weight = 4   
+    
+  [[menu.main]]
+    identifier = 'contact'
+    name = 'Contact'
+    url = "/contact/"
+    pre = "<i class='sidebar-button-icon fas fa-lg fa-id-card' aria-hidden='true'></i>"
+    weight = 5
+
+
+  # [[menu.main]]
+  #  identifier = 'about'
+  #  name = 'About'
+  #  url = "/about/"
+  #  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
+  #  weight = 4
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  subtitle = "My personal hompage"
+
+  
